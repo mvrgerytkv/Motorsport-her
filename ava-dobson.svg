@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Awatar Ava Dobson">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff4fa3"/>
+      <stop offset="100%" stop-color="#7a1f5c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.2" r="0.8">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.35)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="56" fill="url(#g)"/>
+  <circle cx="390" cy="122" r="110" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="130" cy="402" r="150" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="256" cy="206" r="104" fill="rgba(255,255,255,0.14)"/>
+  <circle cx="256" cy="188" r="62" fill="rgba(255,255,255,0.82)"/>
+  <path d="M149 360c16-54 62-90 107-90s91 36 107 90" fill="none" stroke="rgba(255,255,255,0.82)" stroke-width="34" stroke-linecap="round"/>
+  <rect x="40" y="40" width="152" height="44" rx="22" fill="rgba(10,10,14,0.28)" stroke="rgba(255,255,255,0.22)"/>
+  <text x="116" y="68" text-anchor="middle" fill="white" font-size="24" font-family="Inter, Arial, sans-serif" font-weight="700">🇺🇸 AD</text>
+  <text x="256" y="450" text-anchor="middle" fill="white" font-size="40" font-family="Inter, Arial, sans-serif" font-weight="700">Ava Dobson</text>
+  <text x="256" y="484" text-anchor="middle" fill="rgba(255,255,255,0.86)" font-size="21" font-family="Inter, Arial, sans-serif">F1 Academy</text>
+</svg>
